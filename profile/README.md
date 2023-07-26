@@ -1,6 +1,6 @@
 ![Discord](https://img.shields.io/discord/803323840527728670?label=tecsmith&style=social) ![Twitch Status](https://img.shields.io/twitch/status/tecsmith?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/tecsmith_info?style=social)
 
-## You Found Me! 🧙
+## You Found Us! 🧙
 
 Hello and welcome to the associated repository of [TECSmith Information](https://www.tecsmith.info). 
 Here you will find some proof-of-concept demonstrations that you might consider forking and contributing to... Either way, thanks for visiting!
