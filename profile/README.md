@@ -1,3 +1,5 @@
+<img src="https://www.tecsmith.info/assets/images/logo/large-light.png" alt="TECSmith.info" title="TECSmith" />
+
 ![Discord](https://img.shields.io/discord/803323840527728670?label=tecsmith&style=social) ![Twitch Status](https://img.shields.io/twitch/status/tecsmith?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/tecsmith_info?style=social)
 
 ## You Found Us! 🧙
