@@ -7,12 +7,6 @@
 Hello and welcome to the associated repository of [TECSmith Information](https://www.tecsmith.info). 
 Here you will find some proof-of-concept demonstrations that you might consider forking and contributing to... Either way, thanks for visiting!
 
-## Communities 🍿
-
- * [Devious100](https://github.com/devious100)
- * [Drum'n'Bass Club](https://drumnbase.club)
- * [Gaming Insurgent](https://m-i-a.co.uk)
-
 ## Offerings 👩‍💻
 
 Products
@@ -26,3 +20,7 @@ Services
  * [Content Writing](https://tecsmith.info/services/content-writing?utm_medium=social&utm_source=github&utm_campaign=content+writing)
  * [Digital Marketing](https://tecsmith.info/services/digital-marketing?utm_medium=social&utm_source=github&utm_campaign=digital+marketing)
  * [Technical Support](https://tecsmith.info/services/technical-support?utm_medium=social&utm_source=github&utm_campaign=technical+support)
+
+## Communities 🍿
+
+ * [Devious100](https://github.com/devious100)
